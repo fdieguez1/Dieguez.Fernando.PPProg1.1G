@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621290450 source:c:\users\ferna\desktop\parcialprog\dieguez.fernando.ppprog1.1g\dieguez_fernando_ppprog_1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
